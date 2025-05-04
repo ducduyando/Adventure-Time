@@ -53,7 +53,13 @@ Finn takes longer time to use this ability and it can be canceled by taking dama
 ## **Sources
 
 - Code: Coded on CLion with C++, SDL3 main, image and mixer with some help of Chat GPT and few setting-up instruction videos on Youtube
-- Sprites: Adventure Time Finn sprite, background on itch.io while the rest of them were drawn base on Finn with Aseprite
-- Soundtracks and SFXs: The soundtracks included "Come along with me" and "Chip dip triple hips are flip" in 8-bit version, and the rest of the them from retro arcade games SFXs which I found on Youtube and remastered with Bandlab
+- Sprites: 
+  + [Adventure Time Finn sprite](https://lhteam.itch.io/finn-sprite)
+  + [Background](https://incolgames.itch.io/forest-pixel-art-parallax)
+  + The rest of them were drawn base on Finn with Aseprite
+- Soundtracks and SFXs:
+  + ["Come along with me 8-Bit version" (Opening soundtrack)](https://www.youtube.com/watch?v=nhp6y5deuC8)
+  + ["Chip dip triple hips are flip OST" (Combat soundtrack)](https://www.youtube.com/watch?v=4Z_58dJJC8U)
+  + And the rest of the them from retro arcade games SFXs which I found on Youtube and remastered with Bandlab
 - Idea and guidance: From some of my friends and tutors who help me improve my code, graphics and idea
 
