@@ -50,7 +50,7 @@ Finn takes longer time to use this ability and it can be canceled by taking dama
 - Download Jetbrain CLion
 - Open my project, wait for setting up and you good to go
 
-## **Sources
+## **Sources**
 
 - Code: Coded on CLion with C++, SDL3 main, image and mixer with some help of Chat GPT and few setting-up instruction videos on Youtube
 - Sprites: 
