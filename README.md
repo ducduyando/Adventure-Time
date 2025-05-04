@@ -43,3 +43,16 @@ Finn activates a shield which blocks any damage for a while
 ![FinnSkill3](https://github.com/user-attachments/assets/be6c2ef9-3604-4cba-ac32-d803ea269d13)
 
 Finn takes longer time to use this ability and it can be canceled by taking damage while charging up, but it will does more damage and heals Finn
+
+## **Installation instructions**
+
+- Download my code
+- Download Jetbrain CLion
+- Open my project, wait for setting up and you good to go
+
+## **Sources
+
+- Code: Coded on CLion with C++, SDL3 main, image and mixer with some help of Chat GPT and few setting-up instruction videos on Youtube
+- Sprites: Adventure Time Finn sprite, background on itch.io while the rest of them were drawn base on Finn with Aseprite
+- Idea and guidance: From some of my friends and tutors who help me improve my code, graphics and idea
+
