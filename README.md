@@ -15,4 +15,4 @@
 - This RPG game focuses on countering enemies' abilities by learning how they work, calculating the mana point, making outstanding strategy with them, but remember that the Skeletons also have abilities to counter you too!
 - The game is based on a removed nostalgic game which I have played when I was a child but remaked with different concepts, characters from Adventure Time an OG cartoon series, pixel art styles and 8-bit, retro arcade soundtracks and sfx
 
-![Menu](https://github.com/user-attachments/assets/0040cc04-8e7e-40ea-8538-93b6b578e97b)
+![Menu](https://github.com/user-attachments/assets/d106f9ac-3759-4034-ad8c-4d15b67a52d1)
