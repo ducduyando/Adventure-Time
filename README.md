@@ -29,8 +29,9 @@
 
 ![FinnSkill1](https://github.com/user-attachments/assets/f72495ce-fd0f-43ba-9e9b-af51666e7222)
 
-Mana cost: 2 Points
-Damage: 2 HP
++ Mana cost: 2 Points
++ Damage: 2 HP
+
 Finn uses his grass sword to stab the enemy
 
 
@@ -38,17 +39,18 @@ Finn uses his grass sword to stab the enemy
 
 ![Test](https://github.com/user-attachments/assets/e5508c24-b7d6-4e12-a05e-d5b1b2978fe7)
 
-Mana cost: 1 Points
++ Mana cost: 1 Points
 
 Finn activates a shield which reduces or blocks any damage for a while
+
 
 - Skill 3: NUM 3
 
 ![FinnSkill3](https://github.com/user-attachments/assets/be6c2ef9-3604-4cba-ac32-d803ea269d13)
 
-Mana cost: 2 Points
-Damage: 2 HP
-Heal: 1 HP
++ Mana cost: 2 Points
++ Damage: 2 HP
++ Heal: 1 HP
 
 Finn takes longer time to use this ability and it can be canceled by taking damage while charging up, but it will does more damage and heals Finn
 
