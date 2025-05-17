@@ -49,7 +49,7 @@ Finn activates a shield which reduces or blocks any damage for a while
 ![FinnSkill3](https://github.com/user-attachments/assets/be6c2ef9-3604-4cba-ac32-d803ea269d13)
 
 + Mana cost: 2 Points
-+ Damage: 2 HP
++ Damage: 3 HP
 + Heal: 1 HP
 
 Finn takes longer time to use this ability and it can be canceled by taking damage while charging up, but it will does more damage and heals Finn
