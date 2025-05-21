@@ -39,7 +39,7 @@ Finn uses his grass sword to stab the enemy
 
 ![Test](https://github.com/user-attachments/assets/e5508c24-b7d6-4e12-a05e-d5b1b2978fe7)
 
-+ Mana cost: 1 Points
++ Mana cost: 1 Point
 
 Finn activates a shield which reduces or blocks any damage for a while
 
